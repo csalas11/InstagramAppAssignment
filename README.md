@@ -7,7 +7,7 @@ It allows for the creation of a new user (registration), logging in, logging out
 It shows all of the uploads that the user has created. 
 
 
-![Login Page](/Users/carlossalas/Desktop/Classes/Junior Year F17/CS121 Software Dev/Assignment 1/Instagram_app/LogInPage.png)
+![Login Page](https://github.com/csalas11/InstagramAppAssignment/blob/master/LogInPage.png?raw=true)
 
 
 
